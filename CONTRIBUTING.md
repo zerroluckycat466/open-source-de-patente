@@ -9,5 +9,6 @@ Vielen Dank, dass Sie zu diesem Projekt beitragen möchten! Hier sind einige Mö
 - Schreiben Sie klaren, lesbaren Code.
 - Fügen Sie Tests für neue Funktionen hinzu.
 - Halten Sie sich an den Stil des bestehenden Codes.
+- **Kodierungsstandards:** Stellen Sie sicher, dass Ihr Code den festgelegten Kodierungsstandards entspricht, um die Konsistenz im Projekt zu gewährleisten.
 
 Vielen Dank für Ihre Unterstützung!
