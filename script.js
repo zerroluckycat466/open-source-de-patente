@@ -10,6 +10,12 @@ console.log('Script geladen!');
  * @returns {Array} - Eine Liste der gefundenen Patente.
  */
 function patentrecherche(kriterien) {
+    // Überprüfen, ob die Eingabe leer ist
+    if (!kriterien || typeof kriterien !== 'string') {
+        console.error('Ungültige Eingabekriterien. Bitte geben Sie einen gültigen Suchbegriff ein.');
+        return []; // Rückgabe einer leeren Liste bei ungültigen Kriterien
+    }
+
     // Logik zur Patent Recherche hier implementieren
     console.log('Suche nach Patenten mit den Kriterien:', kriterien);
     return []; // Platzhalter für die Rückgabe gefundener Patente
