@@ -12,7 +12,7 @@ console.log('Script geladen!');
 function patentrecherche(kriterien) {
     // Logik zur Patent Recherche hier implementieren
     console.log('Suche nach Patenten mit den Kriterien:', kriterien);
-    return []; // Platzhalter für die Rückgabe ge fundener Patente
+    return []; // Platzhalter für die Rückgabe gefundener Patente
 }
 
 /**
