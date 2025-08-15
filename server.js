@@ -13,7 +13,7 @@ app.use(express.json());
 // Define the main route
 app.get('/', (req, res) => {
     // Send welcome message
-    res.send('Willkommen zu Open Source DE Patente!');
+    res.send('Willkommen bei Open Source DE Patente!'); // Fixed typographical error 'zu' to 'bei'
 });
 
 // Start the server and listen on the defined port
