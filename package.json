@@ -1,7 +1,7 @@
 {
   "name": "open-source-de-patente",
   "version": "1.0.0",
-  "description": "Ein Werkzeug zur Suche und Visualisierung von offenen Patenten in der Technologiebranche.",
+  "description": "Ein Werkzeug zur Suche und Visualisierung von offenen Patenten in der Technologiebranche. It is a tool for searching and visualizing open patents in the technology industry.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js"
